@@ -12,10 +12,10 @@
   "dependencies": {
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.1.1",
-    "@prisma/client": "^6.1.0",
+    "@prisma/client": "^5.8.1",
     "framer-motion": "^10.18.0",
     "next": "14.0.4",
-    "prisma": "^6.1.0",
+    "prisma": "^5.8.1",
     "react": "^18",
     "react-datepicker": "^4.25.0",
     "react-dom": "^18",
